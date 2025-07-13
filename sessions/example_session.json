@@ -1,0 +1,43 @@
+{
+  "start_time": "2024-01-15T10:30:00",
+  "events": [
+    {
+      "timestamp": 0.0,
+      "type": "navigation",
+      "data": {
+        "url": "https://example.com"
+      }
+    },
+    {
+      "timestamp": 2.5,
+      "type": "page_loaded",
+      "data": {
+        "url": "https://example.com"
+      }
+    },
+    {
+      "timestamp": 5.2,
+      "type": "navigation",
+      "data": {
+        "url": "https://example.com/login"
+      }
+    },
+    {
+      "timestamp": 7.8,
+      "type": "page_loaded",
+      "data": {
+        "url": "https://example.com/login"
+      }
+    },
+    {
+      "timestamp": 10.1,
+      "type": "console_message",
+      "data": {
+        "level": 0,
+        "message": "Page loaded successfully",
+        "line": 1,
+        "source": "https://example.com/login"
+      }
+    }
+  ]
+}

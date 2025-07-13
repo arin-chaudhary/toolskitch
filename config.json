@@ -1,0 +1,33 @@
+{
+  "application": {
+    "name": "Toolskitch",
+    "version": "1.0.0",
+    "description": "Customer Perspective Simulator"
+  },
+  "ui": {
+    "window_size": {
+      "width": 1200,
+      "height": 800
+    },
+    "default_url": "https://example.com",
+    "theme": "default"
+  },
+  "recording": {
+    "auto_save_interval": 30,
+    "max_session_duration": 3600,
+    "capture_console_messages": true,
+    "capture_navigation": true,
+    "capture_clicks": true,
+    "capture_inputs": true
+  },
+  "replay": {
+    "default_delay": 0.5,
+    "show_progress": true,
+    "auto_pause_on_error": true
+  },
+  "sessions": {
+    "default_directory": "sessions",
+    "auto_backup": true,
+    "max_backup_files": 10
+  }
+}
