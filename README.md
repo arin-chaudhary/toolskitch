@@ -1,4 +1,5 @@
 # Toolskitch - Customer Perspective Simulator
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 <div align="center">
   <img src="logo.png" alt="Toolskitch Logo" width="200" height="100">
