@@ -2,15 +2,6 @@
 
 Thank you for your interest in the security of Toolskitch!
 
-## 📅 Supported Versions
-
-We currently support security updates for the latest version of the project.
-
-| Version | Supported          |
-|---------|--------------------|
-| Latest  | ✅                 |
-| Older   | ❌                 |
-
 ## 📢 Reporting a Vulnerability
 
 If you discover a security vulnerability in Toolskitch, please follow these steps:
